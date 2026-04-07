@@ -1,1 +1,7 @@
-﻿google.com, pub-6228292776147584, DIRECT, f08c47fec0942fa0
+google.com, pub-6228292776147584, DIRECT, f08c47fec0942fa0
+admanmedia.com, 2242, RESELLER
+adyoulike.com, aff404dd1a704f379acae5190701c9c2, RESELLER
+adyoulike.com, f78b24039641337f06634ab9a3da4b4, RESELLER
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+adagio.io, 1522, RESELLER
+adagio.io, 1575, RESELLER
